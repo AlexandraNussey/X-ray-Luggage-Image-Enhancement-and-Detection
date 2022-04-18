@@ -4,7 +4,7 @@ Senior project by Olivia Martin, Alexandra Nussey, and Alyssa Cooper.
 # STEP ONE:
 Download model_weights.pth from Google Drive: https://drive.google.com/drive/folders/1B_CuD5TxBx9kpTedzKsay0MPSEzWAJ-G?usp=sharing
 
-The training and testing folders are in the same location in case you want to create your own model.
+The training and testing folders are in the same location in case you want to create your own model (this could take about 20 minutes, so it's best to use the model we've included.)
 
 # STEP TWO:
 Look over the Object Detection Model Creation in order to understand the process.
