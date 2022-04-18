@@ -14,4 +14,4 @@ Run the Image Enhancement with Object Detection, changing the file paths accordi
 to visualize what the program is capable of.
 
 And that's it! You should notice that the image enhancement has an impact on the object detection. While there may be some errors,
-this program does a great job at detectiing pistols in luggage.
+this program does a great job at detecting pistols in luggage.
