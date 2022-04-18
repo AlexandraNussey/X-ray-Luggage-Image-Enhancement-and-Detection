@@ -9,7 +9,7 @@ The training and testing folders are in the same location in case you want to cr
 # STEP TWO:
 Look over the Object Detection Model Creation in order to understand the process.
 
-# STEP TWO:
+# STEP THREE:
 Run the Image Enhancement with Object Detection, changing the file paths accordingly. Use the images in the "images to test" folder
 to visualize what the program is capable of.
 
