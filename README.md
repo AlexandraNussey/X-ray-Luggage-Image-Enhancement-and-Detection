@@ -1,5 +1,6 @@
 # X-ray-Luggage-Image-Enhancement-and-Detection
 Senior project by Olivia Martin, Alexandra Nussey, and Alyssa Cooper.
+This was made using Google Colab.
 
 # STEP ONE:
 Download model_weights.pth from Google Drive: https://drive.google.com/drive/folders/1B_CuD5TxBx9kpTedzKsay0MPSEzWAJ-G?usp=sharing
