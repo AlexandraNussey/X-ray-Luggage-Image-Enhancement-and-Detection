@@ -1,4 +1,4 @@
-# X-ray-Luggage-Image-Enhancement-and-Detection
+# X-ray Luggage Image Enhancement and Detection
 Senior project by Olivia Martin, Alexandra Nussey, and Alyssa Cooper.
 This was made using Google Colab.
 
