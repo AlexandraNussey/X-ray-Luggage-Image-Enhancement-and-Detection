@@ -3,7 +3,7 @@ Senior project by Olivia Martin, Alexandra Nussey, and Alyssa Cooper.
 This was made using Google Colab.
 
 # STEP ONE:
-Download model_weights.pth from Google Drive: https://drive.google.com/drive/folders/1B_CuD5TxBx9kpTedzKsay0MPSEzWAJ-G?usp=sharing
+Download model_weights.pth from Google Drive: https://drive.google.com/drive/folders/1pUw8sKg6MiYAvBLYguL8B6n1dGEsiW_P?usp=sharing
 
 The training and testing folders are in the same location in case you want to create your own model (this could take about 20 minutes, so it's best to use the model we've included.)
 
